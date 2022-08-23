@@ -1,0 +1,54 @@
+body {
+    background-color: #e9d7bc;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+header {
+    background-color: #c39f8b;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+header:hover {
+    background-color: #e9d7bc;
+}
+
+nav {
+    background-color: #e9d7bc;
+}
+
+nav:hover {
+    background-color: #c39f8b;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer {
+    text-align: center;
+}
